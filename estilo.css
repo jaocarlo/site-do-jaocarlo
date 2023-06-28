@@ -1,44 +1,38 @@
-.img3 {
-
-    position: absolute;
-width: 237px;
-height: 242px;
-left: -21px;
-top: 135px;
-
-background: url(IMG_20230314_085341-removebg-preview.png);
+.body {
+    background: linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+}
+.menu {
+    width: 1454px;
+    height: 71px;
+    flex-shrink: 0;
 }
 
-body{
-    background-color:rgba(160, 149, 100);
-    font-family: 'Lucida Sans';
-    font-size: small;
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
+.menu-text {
+    display: flex;
+    width: 457px;
+    height: 38px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #C7C5C5;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 700;
 }
-h3{
-    font-family: 'Lucida Sans';
-    font-size: small;
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
+
+.cabecalho {
+    width: 1444px;
+    height: 291px;
+    flex-shrink: 0;
 }
-.linha {
-    font-family: 'Lucida Sans';
-    font-size: small;
-    font-size: 12px;
-    background-color:rgb(66, 56, 10);
-}
-.lista {
-    font-family: 'Lucida Sans';
-    font-size: small;
-    text-align: left;
-    font-size: 12px;
-    color:rgb(66, 56, 10);
-}
-.itens {
-    background-color: rgb(211, 204, 174);
+
+.cabecalho-text {
+    display: flex;
+    width: 514px;
+    height: 97px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #000;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 300;
 }
