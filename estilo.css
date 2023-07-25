@@ -36,3 +36,94 @@
     font-family: Inter;
     font-weight: 300;
 }
+
+.imagem0 {
+    width: 339px;
+    height: 292px;
+    flex-shrink: 0;
+}
+
+.imagem0-5 {
+    width: 260px;
+    height: 271px;
+    flex-shrink: 0;
+}
+
+.corpo {
+    width: 1440px;
+    height: 639px;
+    flex-shrink: 0;
+}
+
+.corpo-text {
+    width: 568px;
+    color: #000;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.imagem1 {
+    width: 221px;
+    height: 201px;
+    flex-shrink: 0;
+}
+
+.imagem2 {
+    width: 221px;
+    height: 201px;
+    flex-shrink: 0;
+}
+
+.imagem3 {
+    width: 219px;
+    height: 182px;
+    flex-shrink: 0;
+}
+
+.imagem3-5 {
+    width: 200px;
+    height: 170px;
+    flex-shrink: 0;
+}
+
+.imagem4 {
+    width: 221px;
+    height: 201px;
+    flex-shrink: 0;
+}
+
+.imagem5 {
+    width: 221px;
+    height: 201px;
+    flex-shrink: 0;
+}
+
+.iamgem6 {
+    width: 221px;
+    height: 201px;
+    flex-shrink: 0;
+}
+
+.rodape {
+    width: 1440px;
+    height: 88px;
+    flex-shrink: 0;
+}
+
+.rodape-text {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.imagem7 {
+    width: 183px;
+    height: 220px;
+    flex-shrink: 0;
+}
